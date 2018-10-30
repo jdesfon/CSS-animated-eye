@@ -116,8 +116,8 @@ body {
   height: 300px;
   border-top-left-radius: 250px;
   border-bottom-right-radius: 250px;
-  border-bottom: 5px solid yellow;
-  border-right: 5px solid yellow;
+  border-top: 2px solid #212121;
+  border-left: 2px solid #212121;
   overflow: hidden;
   background-color: white;
 }
