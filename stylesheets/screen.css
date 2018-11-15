@@ -140,15 +140,15 @@ body {
 /* line 81, ../sass/screen.scss */
 .eye .ball {
   background-color: #576574;
-  height: 80px;
-  width: 80px;
+  height: 150px;
+  width: 150px;
   border-radius: 50%;
   z-index: -1;
 }
 /* line 88, ../sass/screen.scss */
 .eye .ball .iris {
   background-color: #34495e;
-  height: 40px;
-  width: 40px;
+  height: 60px;
+  width: 60px;
   border-radius: 50%;
 }
